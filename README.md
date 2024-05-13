@@ -18,7 +18,7 @@ Embark on an immersive journey through time with our interactive 3D timeline! Ex
 
 ## Getting Started
 
-1.  **Clone the repository:** `git clone [https://your-repository-url.git](https://github.com/narmerui/react-historical-timeline)`
+1.  **Clone the repository:** `git clone https://github.com/narmerui/react-historical-timeline`
 2.  **Install dependencies:** `npm install`
 3.  **Start the development server:** `npm run dev`
 4.  **Open in your browser:** `http://localhost:3000`
